@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/fcp_info_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cp_info_text"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:visibility="invisible" />
+
+    
+    <FrameLayout
+        android:id="@+id/main"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" 
+        android:layout_above="@+id/asd"
+        android:layout_below="@+id/fcp_info_text">
+
+        <ImageView
+            android:id="@+id/cp_img"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:contentDescription="@string/cp_image_contentDesc"
+            android:scaleType="matrix" />
+
+        <ImageView
+            android:id="@+id/cp_face_template"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:contentDescription="@string/cp_template_contentDesc"
+            android:scaleType="centerInside"
+            android:src="@drawable/face_oval"
+            android:visibility="invisible" />
+    </FrameLayout>
+<ImageView 
+        android:id="@+id/zoom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:visibility="gone"/>
+    <LinearLayout
+        android:id="@+id/asd"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true" >
+
+        <LinearLayout
+            android:id="@+id/cropimage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+               
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="clickonowncrop"
+                android:src="@drawable/owns" />
+
+            <ImageView
+                android:id="@+id/docrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="clickondocrop"
+                android:src="@drawable/shapes" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cropout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onChangeTemplateButton"
+                android:src="@drawable/templates" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onCropImageButton"
+                android:src="@drawable/cropss" />
+
+           
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cropin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" >
+
+            <ImageView
+                 android:id="@+id/imageButton2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                 
+                android:src="@drawable/cropss" />
+
+          
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Goku/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_af3e4ac343868172d41536605cf4435c77ea2d62.jar" />
+    </item>
+
+</items>

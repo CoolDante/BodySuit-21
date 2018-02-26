@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/doness.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/doness.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/templates.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/templates.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/owns.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/owns.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/cancels.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/cancels.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/bodys.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/bodys.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/gallerys.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/gallerys.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/backgs.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/backgs.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/dones.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/dones.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/shares.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/shares.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/shapes.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/shapes.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/toggles.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/toggles.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/saves.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/saves.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/cropss.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/cropss.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable/cameras.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable/cameras.xml"
+    }
+]

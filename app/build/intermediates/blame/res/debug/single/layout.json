@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/layout/singlegrid.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/layout/singlegrid.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/layout/face_template_listivew_layout.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/layout/face_template_listivew_layout.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/layout/startactivity.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/layout/startactivity.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/layout/addbody.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/layout/addbody.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/layout/mainactivity.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/layout/mainactivity.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/layout/addpic.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/layout/addpic.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/layout/activity_crop.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/layout/activity_crop.xml"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/layout/select_dialog.xml",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/layout/select_dialog.xml"
+    }
+]

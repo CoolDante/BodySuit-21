@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Body Build Photo</string>
+    
+    <!-- Main Page -->
+    
+    <string name="ma_info_text">Click on button below to start cropping image.</string>
+    
+    <!-- Crop Page -->
+    <string name="cp_info_text">Fit Face Inside the Orange Circle</string>
+    <string name="cp_image_contentDesc">Image</string>
+    <string name="cp_template_contentDesc">Template</string>
+    <string name="cp_change_img_contentDesc">Change Image</string>
+    <string name="cp_crop_button">Crop Image</string>
+    <string name="cp_template_button">Change Template</string>
+    
+    <!-- Select Dialog -->
+    <string name="sd_select_template_text">Select Template</string>
+    <string name="sd_icon_contentDesc">Template Icons</string>
+    
+</resources>

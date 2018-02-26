@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable-nodpi/face_oblong.png",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable-nodpi/face_oblong.png"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable-nodpi/face_oval.png",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable-nodpi/face_oval.png"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable-nodpi/face_round.png",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable-nodpi/face_round.png"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable-nodpi/face_square.png",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable-nodpi/face_square.png"
+    },
+    {
+        "merged": "/Users/Goku/Downloads/BodySuit-21/app/build/intermediates/res/merged/debug/drawable-nodpi/face_triangular.png",
+        "source": "/Users/Goku/Downloads/BodySuit-21/app/src/main/res/drawable-nodpi/face_triangular.png"
+    }
+]
